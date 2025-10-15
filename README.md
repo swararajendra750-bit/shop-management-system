@@ -1,2 +1,2 @@
-# shop-management-system
+# ConnectLocal
 -commerce Shop Management System project
